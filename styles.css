@@ -1,0 +1,27 @@
+body {
+ background-color: #1f1f1f;
+}
+
+h1, h2, h3, p {
+    color: antiquewhite;
+}
+
+li {
+    color: antiquewhite;
+}
+
+a:link {
+    color: lightgreen;
+    background-color: transparent;
+    text-decoration: underline;
+}
+a:visited {
+    color: darkcyan;
+    background-color: transparent;
+    text-decoration: none;
+}
+a:hover {
+    color: green;
+    background-color: transparent;
+    text-decoration: underline;
+}
